@@ -36,8 +36,10 @@ They may contain fixes and improvements that have not yet been applied to the ex
 ## Rules
 
 The latest official BFG rules, originally published by Games Workshop in various books and FAQs, have been compiled into two "remastered" rulebooks.
-These are are available for free at [horizon-bfg.infinityfree.me](https://horizon-bfg.infinityfree.me).
+The PDFs can be downloaded for free at [horizon-bfg.infinityfree.me](https://horizon-bfg.infinityfree.me).
 To play, you'll need both the "Remastered Official Rulebook" and the "Remastered Official Fleets Book".
+
+There are online (HTML) versions of both books available at [https://battlefleet-game.org/](https://battlefleet-game.org/).
 
 If you prefer a nicely printed version of the rulebook, check out [this video](https://www.youtube.com/watch?v=EYfSbst3iNg) by Simon Saier, the maintainer of the "Remastered Rulebook".
 He also offers higher quality PDFs intended for printing [here](https://linktr.ee/bfg.remastered).
